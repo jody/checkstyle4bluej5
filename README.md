@@ -4,8 +4,6 @@
 This updates the *BlueJ Checkstyle Extension* (originally sourced from http://bluejcheckstyle.sourceforge.net) to work with BlueJ **5.0**, Checkstyle **8.4**, and Java **11+**.
 See: https://bluej.org/extensions/writingextensions2.html
 
-Contributors to *this updating effort* include students enrolled in [CS4250](http://www.jodypaul.com/cs/sweprin/), *Software Engineering Principles,* at [Metropolitan State University of Denver](http://www.msudenver.edu).
-
 ---
 ### Abbreviated Usage Instructions
 #### Overview
